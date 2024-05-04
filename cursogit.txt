@@ -6,3 +6,5 @@ modificamos usuario y contraseña
 fecha 2023.
 
 comenzando con git
+
+commit de prueba
