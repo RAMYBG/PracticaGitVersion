@@ -10,6 +10,8 @@ comenzando con git
 commit de prueba
 
 
+colaboracion smash
+
 commit 2
 
 rama appbar NUMERO TRES
